@@ -6,7 +6,10 @@ Your task in this experiment is to set up subnets in a few small LANs to meet gi
 
 It should take about 60-120 minutes to run this experiment, *after* you work out what part of the address space to assign to each LAN.
 
-Lab instructions: [Designing subnets](https://ffund.github.io/tcp-ip-essentials/lab-static-design/).
+Lab instructions:
+
+- [Reserve resources on CloudLab](https://ffund.github.io/tcp-ip-essentials/lab-static-design/reserve-cloudlab)
+- [Designing subnets](https://ffund.github.io/tcp-ip-essentials/lab-static-design/designing-subnets)
 
 """
 
